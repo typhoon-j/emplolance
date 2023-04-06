@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77889484178",
+    "project_id": "emplolance-9f97a",
+    "storage_bucket": "emplolance-9f97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77889484178:android:0c7e8d8a5018b48e143d4b",
+        "android_client_info": {
+          "package_name": "com.example.emplolance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77889484178-6e9kg4o6i0v93p6emcq94nrrnvg92lod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVajiGL1OD6e47UyPUjAXTBGPFOhUYxVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77889484178-6e9kg4o6i0v93p6emcq94nrrnvg92lod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
